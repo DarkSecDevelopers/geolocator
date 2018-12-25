@@ -10,7 +10,7 @@ $('button').on('click', function(e) {
 
     function show3WordAddress(location) {
         data = {
-            key: 'L9M91UJM',
+            key: 'Your-API-key-here',
             coords: location.coords.latitude + ',' + location.coords.longitude
         };
 
